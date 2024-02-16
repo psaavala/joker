@@ -1,0 +1,28 @@
+
+
+
+table {
+    border-spacing: 15px;
+       
+}
+
+td {
+    background-color: moccasin;
+    padding-inline: 15px;
+    padding-block: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+   
+}
+
+p {
+    margin-left: 15px;
+}
+
+h2 {
+    margin-left: 15px;
+}
+
+button {
+    margin-left: 15px;
+}
